@@ -9,10 +9,11 @@
 ## About Me
 
 ```yaml
-role:       CS & Math student → SWE / Infra internships
-school:     University of Toronto
+name:       Saad Rizvi
 location:   Toronto, Canada
-focus:      backend · infra · reliability engineering
+education:  BSc Computer Science & Math @ University of Toronto
+looking_for:       SWE / Infra opportunities
+currently_building:   side projects & exploring ideas
 fun_fact:   fueled by coffee and Claude
 ```
 
