@@ -37,7 +37,8 @@ fun_fact:   fueled by coffee and Claude
 ## GitHub Stats
 
 <div align="center">
-  <img src="github/metrics.svg" alt="GitHub metrics — language breakdown, contribution activity, and repository highlights" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saad-r10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=5B72F5&icon_color=5B72F5" alt="Saad's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-r10&layout=compact&theme=tokyonight&hide_border=true&title_color=5B72F5" alt="Top languages" />
 </div>
 
 ---
