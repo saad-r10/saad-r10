@@ -8,12 +8,12 @@
 
 ## About Me
 
-CS and Math student at the University of Toronto, building backend systems and developer tools. I care about reliability and clean abstractions — [Watchdog](https://github.com/saad-r10/watchdog) started as a personal itch because I kept missing outages on side projects. Fueled by coffee and Claude.
-
 ```yaml
-focus:    backend · infra · reliability engineering
-location: Toronto, Canada
-status:   open to SWE / infra internships
+role:       CS & Math student → SWE / Infra internships
+school:     University of Toronto
+location:   Toronto, Canada
+focus:      backend · infra · reliability engineering
+fun_fact:   fueled by coffee and Claude
 ```
 
 ---
@@ -22,27 +22,15 @@ status:   open to SWE / infra internships
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,c,java&theme=dark" alt="Python, JavaScript, C, Java" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,c,java&theme=dark" alt="Python, TypeScript, JavaScript, C, Java" />
 
 **Infra & Cloud**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,postgres,supabase,nodejs&theme=dark" alt="AWS, Docker, PostgreSQL, Supabase, Node.js" />
+<img src="https://skillicons.dev/icons?i=aws,docker,postgres,redis,supabase,kubernetes,linux&theme=dark" alt="AWS, Docker, PostgreSQL, Redis, Supabase, Kubernetes, Linux" />
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="React, Next.js" />
-
----
-
-## Featured Projects
-
-### [Watchdog](https://github.com/saad-r10/watchdog) &mdash; Website uptime & security monitor
-
-Real-time alerts for downtime events, SSL certificate expiry, and misconfigured HTTP headers. Built for developers who want production-grade observability without the enterprise price tag.
-
-### [Hobbyist](https://github.com/saad-r10/hobbyist) &mdash; Club platform prototype
-
-Goodreads &times; Letterboxd &times; Discord, purpose-built for small groups who share books, films, or music. Front-end prototype in React demonstrating component architecture and UX design; ships with mock data.
+<img src="https://skillicons.dev/icons?i=fastapi,express,react,nextjs,nodejs,githubactions&theme=dark" alt="FastAPI, Express, React, Next.js, Node.js, GitHub Actions" />
 
 ---
 
@@ -51,8 +39,6 @@ Goodreads &times; Letterboxd &times; Discord, purpose-built for small groups who
 <div align="center">
   <img src="github/metrics.svg" alt="GitHub metrics — language breakdown, contribution activity, and repository highlights" />
 </div>
-
-> Stats are generated daily via GitHub Actions — image appears after the first workflow run.
 
 ---
 
