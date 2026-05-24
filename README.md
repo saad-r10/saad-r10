@@ -26,7 +26,7 @@ fun_fact:   fueled by coffee and Claude
 
 **Infra & Cloud**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,postgres,redis,supabase,kubernetes,linux&theme=dark" alt="AWS, Docker, PostgreSQL, Redis, Supabase, Kubernetes, Linux" />
+<img src="https://skillicons.dev/icons?i=aws,docker,postgres,redis,supabase,linux&theme=dark" alt="AWS, Docker, PostgreSQL, Redis, Supabase, Linux" />
 
 **Frameworks & Tools**
 
